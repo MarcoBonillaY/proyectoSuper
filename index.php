@@ -8,6 +8,7 @@ include_once "view/head.php";
 <?php 
 include_once "view/footer.php";
 /***cambios */
+/**otro cam,bio */
 ?>
 
 
