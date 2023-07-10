@@ -98,7 +98,6 @@ if (isset($_POST['btnGrabar'])) {
 
 
 <h3>ESTOY EN NUEVO</h3>
-
 <div class="container-fluid">
   <form method="post" enctype="multipart/form-data">
     <div class="row">
