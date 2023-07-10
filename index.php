@@ -10,6 +10,7 @@ include_once "view/footer.php";
 /***cambios */
 /**otro cam,bio */
 //somos
+//
 ?>
 
 

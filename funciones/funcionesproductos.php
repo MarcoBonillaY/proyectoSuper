@@ -73,5 +73,5 @@ $pro_especifica, $pro_imagen, $marca_id, $catego_id )
     return false; //OPCIONAL
   }
 }
-
 ?>
+
