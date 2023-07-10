@@ -9,6 +9,7 @@ include_once "view/head.php";
 include_once "view/footer.php";
 /***cambios */
 /**otro cam,bio */
+//somos
 ?>
 
 
